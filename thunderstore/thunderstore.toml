@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 # The name of the team you are publishing as
 namespace = "unfrosted2069"
 # max 250 characters
-description = "With this mod Rosary Cannon reloads on Craft(Architect) Bind. But there is a catch. One rosary strings takes for the reload and grants 60 bullets(rosaries). If less than 60 rosaries are needed to reload, the rest are just flig away and can be taken back."
+description = "Mod that make it possible to reload Rosary Cannon with rosary string as resource material."
 # Replace this with a correct repo URL if the default is not accurate
 websiteUrl = "https://github.com/unfrosted2069/Silksong.RosaryCannonCraftBind"
 containsNsfwContent = false
